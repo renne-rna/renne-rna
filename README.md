@@ -1,4 +1,4 @@
-## Oiii eu sou o RennÊ Andrade!
+## Oiii eu sou o Rennê Andrade!
 <div align="center">
   <a href="https://github.com/renne-rna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renne-rna&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
